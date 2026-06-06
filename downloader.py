@@ -21,7 +21,7 @@ import yt_dlp
 
 
 # URL для загрузки картинки-баннера из интернета
-AD_IMAGE_URL = "https://raw.githubusercontent.com/ThreePex/ytd-ad/main/ad.png"
+AD_IMAGE_URL = "https://raw.githubusercontent.com/Thes0ff/YTDownloader/refs/heads/main/banner.png"
 
 
 # ===== Конфигурация цветов для двух тем =====
