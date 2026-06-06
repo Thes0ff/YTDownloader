@@ -10,13 +10,10 @@
 - 🎬 Скачивание видео в лучшем качестве (bestvideo+bestaudio → MP4)
 - 🌗 Переключение тем (Тёмная / Светлая)
 - 🌐 Локализация (RU / EN)
-- 🖼️ Динамический фото-сайдбар рекламы (загружается из интернета)
 - 🚫 Кнопка мгновенной отмены загрузки
 - 📊 Плавный прогресс-бар + спидометр скорости
 - 🧹 Умная очистка ANSI-кодов лога
 - 🛡️ Защита от обрывов сети (15 ретраев)
-- ⌨️ Горячие клавиши Ctrl+C / Ctrl+V / Ctrl+A (работают на любой раскладке)
-- 🖱️ Контекстное меню (ПКМ): Вставить / Копировать / Очистить
 - 📦 Консольный режим: `python downloader.py "https://..."`
 
 ---
@@ -111,13 +108,10 @@ Written in Python (Tkinter) using `yt-dlp`. Features a dynamic photo ad sidebar 
 - 🎬 Download videos in best quality (bestvideo+bestaudio → MP4)
 - 🌗 Theme switching (Dark / Light)
 - 🌐 Localization (RU / EN)
-- 🖼️ Dynamic photo ad sidebar (loaded from the internet)
 - 🚫 Instant cancel button
 - 📊 Smooth progress bar + speedometer
 - 🧹 Smart ANSI code cleanup in logs
 - 🛡️ Network failure protection (15 retries)
-- ⌨️ Hotkeys Ctrl+C / Ctrl+V / Ctrl+A (work on any keyboard layout)
-- 🖱️ Right-click context menu: Paste / Copy / Clear
 - 📦 Console mode: `python downloader.py "https://..."`
 
 ---
