@@ -1,0 +1,17 @@
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Временные папки сборщика PyInstaller
+build/
+downloader.spec
+
+# Скачанные пользователем видео
+downloads/
+
+# Системные и бинарные файлы (их не заливаем на GitHub)
+*.exe
+ffmpeg
+ffplay
+ffprobe
+deno
